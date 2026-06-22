@@ -6,12 +6,6 @@ This project recreates the latest Netflix India landing page UI, featuring a her
 
 ---
 
-## 🚀 Live Demo
-
-
----
-
-
 ## ✨ Features
 
 - Netflix-inspired UI Design
